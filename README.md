@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushman1998
 - 👀 I’m interested in new tech
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Full-Stack
 - 📫 How to reach me ayushmanverma02@gmail.com
 
 <!---
