@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushman1998
+- 👋 Hi, I’m Ayushman
 - 👀 I’m interested in new tech
 - 🌱 I’m currently learning Full-Stack
 - 📫 How to reach me ayushmanverma02@gmail.com
